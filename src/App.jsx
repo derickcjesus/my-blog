@@ -1,10 +1,15 @@
-import Routes from "./routes"
+import Routes from "./routes";
 
 import "./App.css";
+import MyBlogName from './components/MyBlogName';
 
 function App() {
-
-  return <Routes />; 
+  return (
+    <>
+      <MyBlogName />
+      <Routes />
+    </>
+  );
 }
 
-export default App
+export default App;
