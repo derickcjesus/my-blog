@@ -2,7 +2,7 @@ import "./style.css"
 
 function MyBlogName() {
     return (
-        <h1>My Blog</h1>
+        <h1 className="my-blog-name">My Blog</h1>
     );
 }
 

@@ -1,0 +1,12 @@
+div .blog-name {
+    font: 1.125em;
+    font-family: 'Tenor Sans', sans-serif;
+    font-weight: 400;
+    letter-spacing: 4px;
+    text-align: center;
+    margin-top: 1.843em;
+}
+div img {
+    display: block;
+    margin: auto;
+}
