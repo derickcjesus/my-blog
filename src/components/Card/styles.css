@@ -1,0 +1,28 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    margin: 1.5em 0.75em;
+    padding: 1em;
+    background: gray;
+}
+
+.card header {
+    display: flex;
+    
+}
+
+.card header h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 1.4em;
+}
+
+.card header img {
+    width: 25px;
+    height: 25px;
+}
+
+.card footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5em;
+}
