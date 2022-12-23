@@ -7,7 +7,7 @@ function Home() {
     <>
       <div>
         <h1 className="blog-name">BLOG</h1>
-        <img src="line.svg" />
+        <img className="line-img" src="line.svg" />
       </div>
 
       <Card />
